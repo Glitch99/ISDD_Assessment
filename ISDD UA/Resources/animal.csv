@@ -1,0 +1,26 @@
+AnimalID,AnimalName,Category,BestPlaceToSee
+1,Otter,Mammal,Freshwater habitats throughout Scotland
+2,Bluenosed dolphin,Mammal,Seen around the coasts of Scotland
+3,Habour seal,Mammal,"Along the West Coast, the Hebrides, Orkney and Shetland"
+4,Minke whale,Mammal,Waters between Mull and Ardnamurchan
+5,Pine marten,Mammal,Woodland along the West Coast
+6,Red deer,Mammal,Upland forests and moorlands throughout Scotland
+7,Red squirrel,Mammal,"Strathspey, Deeside and glens west of Loch Ness"
+8,Wildcat,Mammal,"Aberdeenshire, Moray and the Highland region"
+9,Osprey,Bird of prey,Highlands and the Borders
+10,Peregrine falcon,Bird of prey,Throughout Scotland
+11,Red kite,Bird of prey,"Black Isle, the Trossachs and Dumfries and Galloway"
+12,Golden eagle,Bird of prey,Isle of Mull
+13,Puffin,Sea bird,Around the coasts of Scotland from Galloway to Wick and St Kilda
+14,Gannet,Sea bird,"Bass Rock, Ailsa Craig and St Kilda"
+15,Guilliemot,Sea bird,"Orkney, Shetland and Sound of Harris"
+16,Capercaillie,Inland bird,Pinewoods around the Cairngorm mountains
+17,Chough,Inland bird,Islay
+18,Ptarmigan,Inland bird,"Mountains in Cairngorms, Ben Nevis and Wester Ross "
+19,Red grouse,Inland bird,Heather moorlands throughout Scotland
+20,Dotterel,Wading and ground nesting bird,High plateaus in the Highlands
+21,Oystercatcher,Wading and ground nesting bird,Coastal beaches and beside rocky coves
+22,Red-necked phalarope,Wading and ground nesting bird,Western and Northern Isles of Scotland
+23,Red-throated diver,Wading and ground nesting bird,"Shetland, Orkney, and the Outer Hebrides "
+24,Atlantic salmon,Fish,Freshwater streams and rivers of Scotland
+25,Basking shark,Fish,Along the West Coast of Scotland
